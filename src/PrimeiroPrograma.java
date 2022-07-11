@@ -6,6 +6,8 @@ class HelloWorld {
         System.out.println("Hello World!");
         /** Saída de texto: I'm alive? **/
         System.out.println("I'm alive?");
+        /** Saída de texto: It's real life? **/
+        System.out.println("It's real life?");
     }
 
 }
